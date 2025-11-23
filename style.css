@@ -1,0 +1,64 @@
+.headline {
+    font-weight: 1000;
+}
+
+.navbar {
+    background-color: #204b7a;
+}
+
+.services h3 {
+    font-size: 2.5rem;
+    padding-top: 0.8rem;
+}
+.services svg { margin-right: 1rem;}
+.serviceAreas svg { margin-right: 0.5rem;}
+
+.serviceLinks h2 {font-size: 1.8rem; display: none;}
+
+
+.airconImage {
+    background-image: url('img/repair-720-550.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.commercialImage {
+    background-image: url('img/commercial-fridges.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.coolroomImage {
+    background-image: url('img/commercial-refrigeration-1-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.airconGoulburnImage {
+    background-image: url('img/air-conditioning-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.hero {
+    /*   */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background: linear-gradient(0deg, rgba(7, 181, 250, 0.5) 0%, rgba(252, 255, 255, 0.5) 100%), url(img/snow-2-1.jpg);
+    min-height: 300px;
+    padding:8rem 0;
+}
+
+.footerBottom {
+    background-color: #204b7a;
+    font-size: 0.8rem;
+}
